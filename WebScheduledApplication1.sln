@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScheduledApplication1", "WebScheduledApplication1\WebScheduledApplication1.csproj", "{5CCB6A83-A2A0-4DEA-AADF-2C7F01C0D024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CCB6A83-A2A0-4DEA-AADF-2C7F01C0D024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCB6A83-A2A0-4DEA-AADF-2C7F01C0D024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCB6A83-A2A0-4DEA-AADF-2C7F01C0D024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCB6A83-A2A0-4DEA-AADF-2C7F01C0D024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9405A27B-FA3E-4C47-9E16-6CABCFB5803C}
+	EndGlobalSection
+EndGlobal
